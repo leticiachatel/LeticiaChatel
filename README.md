@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiachatel&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="leticiachatel" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiachatel&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="leticiachatel" align = "center"/></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A70808&center=true&vCenter=true&width=970&lines=Social+media)](https://git.io/typing-svg)
   <p align="center">
 
  <img src="https://profile-counter.glitch.me/leticiachatel/count.svg" />
